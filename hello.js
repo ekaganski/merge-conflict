@@ -1,2 +1,3 @@
-console.log("hello world")
-console.log("warum")
+console.log("hello world");
+var number = 2; 
+console.log("warum");
